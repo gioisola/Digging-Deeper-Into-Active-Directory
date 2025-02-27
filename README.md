@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 </b>
-The goal of this lab was to simulate a real life scenerio that resembled what it may look like for a SOC team to witness a vulnerable virtual machine be attacked through attempted unauthorized logins. This was done by removing all inbound rules, allowing access attempts from any IP, and turning off all Microsoft firewall restrictions. 
+The goal of this lab was to dip a bit deeper into Active Directory and learn how to set up different settings that you might see in an enterprise setting.  
 <br />
 <br />
 
@@ -15,7 +15,9 @@ The goal of this lab was to simulate a real life scenerio that resembled what it
 
 <h2>Utilities Used</h2>
 
-- Microsoft Azure
+- Active Directory
+  - Group Policy
+  - 
 
 <br/>
 
